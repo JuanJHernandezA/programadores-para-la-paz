@@ -1,0 +1,2 @@
+Qué hace esta ruta: Esta ruta permite que se envie al servidor un reporte
+Para qué podría servir en una aplicación comunitaria: En una aplicación ocmunitaria podría servir para que las personas puedan reportar facilmente

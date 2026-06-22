@@ -1,0 +1,8 @@
+Las APIs actúan como puentes tecnológicos estandarizados que permiten que distintas aplicaciones y 
+sistemas se comuniquen entre sí de forma automática y organizada. En el contexto comunitario, 
+una API permite centralizar reportes de incidentes, alertas ambientales o convocatorias ciudadanas 
+en una única base de datos, sin importar si los datos se enviaron desde un celular, una página web 
+o un bot de Telegram. Al estructurar la información bajo formatos universales (como JSON o XML), 
+las APIs aseguran que los datos no lleguen de manera caótica, sino clasificados por etiquetas como tipo 
+de alerta, fecha o ubicación exacta. Además, facilitan que otras iniciativas locales consuman e integren 
+esa misma información de manera segura y en tiempo real en sus propias plataformas.

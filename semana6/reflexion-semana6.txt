@@ -1,0 +1,8 @@
+Recibir reportes ciudadanos de forma estructurada es fundamental porque permite 
+que las plataformas tecnológicas procesen, clasifiquen y prioricen la información 
+de manera automática y sin errores. Cuando los datos llegan organizados en campos 
+específicos —como ubicación, tipo de alerta y descripción, los algoritmos 
+pueden dirigir cada caso al instante hacia el equipo encargado, reduciendo 
+drásticamente los tiempos de respuesta ante emergencias. Además, la estructura 
+facilita la creación de mapas de calor, estadísticas y tendencias en tiempo real, 
+transformando los reportes individuales en un panorama colectivo visible para toda la comunidad.

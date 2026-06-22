@@ -1,0 +1,4 @@
+{
+    "tipo": "Alcantarillado público",
+    "descripcion":"La comunidad reporta que cuando llueve, el alcantarillado no cumple su función de una manera correcta provocando inundaciones y se debe de arreglar"
+}

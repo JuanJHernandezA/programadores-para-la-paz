@@ -1,0 +1,9 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+A primera vista, un repositorio de código y la participación ciudadana parecen mundos distantes, 
+pero se conectan a través de la transparencia, la trazabilidad y la responsabilidad. 
+El uso responsable de la información en internet es el pilar ético que asegura que los datos compartidos sean verídicos, 
+combatiendo la desinformación que daña a la sociedad. 
+Por su parte, herramientas como Git organizan el trabajo técnico permitiendo auditar cada cambio, saber quién lo hizo y por qué, 
+fomentando una cultura de rendición de cuentas. Cuando la participación ciudadana adopta esta misma estructura lógica 
+basada en la verificación de fuentes, el trabajo colaborativo abierto (como el open source) y el registro claro de las acciones, 
+se transforma en un ejercicio democrático más sólido, eficiente y protegido contra la manipulación digital.

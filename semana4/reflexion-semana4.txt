@@ -1,0 +1,10 @@
+Para una comunidad o iniciativa ciudadana, construir herramientas tecnológicas propias 
+utilizando tecnologías abiertas como Node.js es fundamental para garantizar su autonomía, 
+soberanía digital y sostenibilidad. Al no depender de plataformas privadas, las comunidades 
+pueden adaptar el software exactamente a sus necesidades locales sin restricciones comerciales 
+ni costos de licencias elevados. Node.js, gracias a su enorme ecosistema y eficiencia, permite 
+desarrollar herramientas rápidas y escalables de manera accesible para programadores de diferentes 
+niveles. Además, el uso de software libre y código abierto fomenta los pilares del open source: 
+la transparencia en el manejo de datos, la auditoría colectiva y la colaboración. De este modo, la 
+tecnología deja de ser un producto impuesto por grandes corporaciones para convertirse en un bien común 
+diseñado por y para la gente, fortaleciendo el tejido social y la participación democrática.

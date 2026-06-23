@@ -1,0 +1,7 @@
+La seguridad digital es el pilar que sostiene la confianza en cualquier 
+plataforma comunitaria, ya que un entorno vulnerable ahuyenta la participación 
+ciudadana. Cuando las personas reportan incidencias locales o debaten en estos espacios, 
+suelen compartir datos sensibles como su ubicación, nombres o preocupaciones comunitarias; 
+si esta información se filtra, los usuarios quedan expuestos a represalias o suplantaciones 
+de identidad. Asimismo, una infraestructura desprotegida es blanco fácil para hackeos que pueden 
+manipular los reportes, alterar consensos democráticos o propagar información falsa que divida a la comunidad.

@@ -1,0 +1,5 @@
+No compartir información sensible
+Comentar anónimamente
+Registrar accesos seguros
+Utilizar tokens de ingreso
+Usar conexión HTTPS

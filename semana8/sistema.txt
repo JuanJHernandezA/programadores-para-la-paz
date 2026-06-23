@@ -1,0 +1,5 @@
+1. uname -a
+Este comando muestra una radiografía completa del núcleo (kernel) y del sistema operativo que se está ejecutando. Al usar el parámetro -a (que significa all o todo), la terminal te devuelve una sola línea con los siguientes detalles estructurados:
+
+2. whoami
+Literalmente significa "¿Quién soy yo?". Este comando devuelve una sola palabra: el nombre del usuario actual que tiene la sesión activa en la terminal.

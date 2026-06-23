@@ -1,0 +1,1 @@
+Cuando consulto los resportes aparece el id del reporte con su tipo y descripcion de dicho reporte.

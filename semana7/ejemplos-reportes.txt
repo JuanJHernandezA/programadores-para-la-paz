@@ -1,0 +1,15 @@
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria",
+  "ubicacion": "Parque Principal, Calle 4 #12-34",
+  "prioridad": "Alta",
+  "fecha_reporte": "2026-06-22"
+}
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Luminaria del alumbrado público dañada y parpadeando",
+  "ubicacion": "Avenida Central frente al lote 5",
+  "prioridad": "Media",
+  "fecha_reporte": "2026-06-22"
+}

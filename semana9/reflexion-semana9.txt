@@ -1,0 +1,9 @@
+La estabilidad y la seguridad de un servidor son la columna vertebral de cualquier
+plataforma comunitaria, ya que de ellas depende la confianza y la participación activa 
+de los ciudadanos. Cuando una herramienta digital se mantiene en línea de forma continua, 
+garantiza que los reportes de incidentes, alertas locales o propuestas democráticas se reciban 
+y procesen sin interrupciones ni pérdidas de datos en momentos críticos. Por otra parte, 
+un servidor blindado con controles de acceso estrictos y monitoreo constante protege la 
+información sensible de los usuarios contra filtraciones o manipulaciones externas. 
+Si el sistema falla de manera recurrente o se muestra vulnerable, la comunidad experimenta frustración 
+y desmovilización social, abandonando el canal por completo.

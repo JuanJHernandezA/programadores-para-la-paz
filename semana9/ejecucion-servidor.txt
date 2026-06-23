@@ -1,0 +1,2 @@
+Cuando ejecuto node server.js aparece Servidor ejecutándose en puerto 3000, esto hacer que al dirigirse a la URL especifica con puerto 3000, este servidor funcione. cuando 
+visito la ruta /estado aparece {"estado":"Servidor funcionando","servicio":"API comunitaria"}
